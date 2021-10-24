@@ -3,6 +3,7 @@ We were tasked with making a script that would take average scores of Students b
 
 ## Results of Our Findings
 Since the ninth grade Class from Thomas High School had their scores replaced the re-run of the code was to show how having scores set to N/A affected the schools performance.
+
 * Average math and reading scores at Thomas High School
 * Percentage of students passing according to math scores
 * Percentage of students passing according to reading scores
@@ -13,6 +14,7 @@ Since the ninth grade Class from Thomas High School had their scores replaced th
 
 ### Summary
 After reviewing the metrics of the schools with Thomas High School ninth-graders scores reverted to N/A there were 4 major changes.
+
 *The average math exam score for the districts was only one tenth of a percent lower.
 *Similarly the percentage of people who passed the math exam was changed by teo tents of a percent.
 *Students who passed Reading was lowered by three tenths of a percent
