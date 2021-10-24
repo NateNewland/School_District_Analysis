@@ -3,11 +3,10 @@ We were tasked with making a script that would take average scores of Students b
 
 ## Results of Our Findings
 Since the ninth grade Class from Thomas High School had their scores replaced the re-run of the code was to show how having scores set to N/A affected the schools performance.
-Markup: *Bullet list
-*Average math and reading scores at Thomas High School
-*Percentage of students passing according to math scores 
-*Percentage of students passing according to reading scores
-*Overall percentage of students who passed both math and reading
-*Percentage passing math, reading, and overall by budget per student
-*Percentage passing math, reading, and overall by school size
-*Placement of schools overall by score values relative to each other
+* Average math and reading scores at Thomas High School
+* Percentage of students passing according to math scores
+* Percentage of students passing according to reading scores
+* Overall percentage of students who passed both math and reading
+* Percentage passing math, reading, and overall by budget per student
+* Percentage passing math, reading, and overall by school size
+* Placement of schools overall by score values relative to each other
