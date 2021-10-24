@@ -15,7 +15,7 @@ Since the ninth grade Class from Thomas High School had their scores replaced th
 ### Summary
 After reviewing the metrics of the schools with Thomas High School ninth-graders scores reverted to N/A there were 4 major changes.
 
-1.The average math exam score for the districts was only one tenth of a percent lower.
-2.Similarly the percentage of people who passed the math exam was changed by teo tents of a percent.
-3.Students who passed Reading was lowered by three tenths of a percent
+1.The average math exam score for the districts was only one tenth of a percent lower.\
+2.Similarly the percentage of people who passed the math exam was changed by teo tents of a percent.\
+3.Students who passed Reading was lowered by three tenths of a percent.\
 4.And for the combine passing of botrh reading and math the whole district was lowered one tenth of a percent.
